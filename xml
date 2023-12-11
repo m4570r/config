@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
     <general>
-        <nombre>Nombre de la aplicación</nombre>
-        <version>1.0</version>
+        <nombre>TECNICOM APP</nombre>
+        <version>1.1</version>
     </general>
 </config>
