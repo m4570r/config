@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuraciones>
     <configuracion>
-        <host>localhost</host>
-        <usuario>usuario_db</usuario>
-        <contrasena>contraseña_segura</contrasena>
-        <base_de_datos>mi_base_de_datos</base_de_datos>
+        <host>192.168.1.139</host>
+        <usuario>root</usuario>
+        <contrasena></contrasena>
+        <base_de_datos>app_python</base_de_datos>
     </configuracion>
     
     <config>
@@ -14,3 +14,4 @@
         </general>
     </config>
 </configuraciones>
+
