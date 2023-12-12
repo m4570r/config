@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<config>
-    <general>
-        <nombre>TECNICOM APP</nombre>
-        <version>1.1</version>
-    </general>
-</config>
+<configuraciones>
+    <configuracion>
+        <host>localhost</host>
+        <usuario>usuario_db</usuario>
+        <contrasena>contraseña_segura</contrasena>
+        <base_de_datos>mi_base_de_datos</base_de_datos>
+    </configuracion>
+    
+    <config>
+        <general>
+            <nombre>TECNICOM APP</nombre>
+            <version>1.1</version>
+        </general>
+    </config>
+</configuraciones>
