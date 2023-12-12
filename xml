@@ -2,8 +2,8 @@
 <configuraciones>
     <configuracion>
         <host>192.168.1.139</host>
-        <usuario>root</usuario>
-        <contrasena></contrasena>
+        <usuario>m4570r</usuario>
+        <contrasena>m4573r0fd00m</contrasena>
         <base_de_datos>app_python</base_de_datos>
     </configuracion>
     
